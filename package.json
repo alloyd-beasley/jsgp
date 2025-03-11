@@ -1,0 +1,16 @@
+{
+  "name": "jsgp",
+  "version": "1.0.0",
+  "description": "A 3D racing game inspired by F1 from the late 80's/early 90's",
+  "main": "main.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "three": "^0.159.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
